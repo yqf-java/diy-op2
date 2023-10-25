@@ -21,7 +21,7 @@ on:
 
 env:
   REPO_URL: https://github.com/openfros/fros
-  REPO_BRANCH: master
+  REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: x86_fros.config
   DIY_P1_SH: fros-1.sh
